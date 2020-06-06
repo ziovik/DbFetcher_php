@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Db_1C8@localhost" uuid="417963d5-ccfd-457f-a695-78141c4cb254">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/Db_1C8</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Db_1C7@localhost" uuid="4dc0d5fd-1b9a-4aa1-b0fd-52fab9c3b169">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/Db_1C7</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Microsoft SQL Server - zayavki@192.168.84.23" uuid="f6c4f39c-a918-4e62-9465-eb0eca18fa44">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://192.168.84.23:1433;database=zayavki</jdbc-url>
+    </data-source>
+  </component>
+</project>

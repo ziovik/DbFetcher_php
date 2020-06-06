@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="472fa536-7f47-4c19-854d-b820b9001303" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Db_1C8@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Db_1C8@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Db_1C8@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="db_1c8: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ExecutionTargetDialog">
+    <checked>
+      <node key="417963d5-ccfd-457f-a695-78141c4cb254" />
+    </checked>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="edit_contragent_1c7.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/edit_contragent_1c7.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="80" column="49" selection-start-line="80" selection-start-column="49" selection-end-line="80" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>country</find>
+      <find>city</find>
+      <find>state</find>
+      <find>onchange=&quot;selectCountry()</find>
+      <find>onchange</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ajaxData.php" />
+        <option value="$PROJECT_DIR$/js/scripts.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="6e431a3a-2ff5-44c8-b721-53bd2f0639e3" name="localhost" port="82" />
+    </servers>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-182" />
+    <option name="y" value="125" />
+    <option name="width" value="1083" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectId" id="1bcL0x5F7sjr1mnNh1ZxLjs55ye" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DbFetcher_php" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DbFetcher_php" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DbFetcher_php" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DbFetcher_php" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql&#10;postgresql&#10;sqlserver" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="database.data.extractors.current.id" value="Tab-separated (TSV)_id" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\DbFetcher_php\alpha" />
+      <recent name="C:\xampp\htdocs\DbFetcher_php\1c7" />
+      <recent name="C:\xampp\htdocs\DbFetcher_php\1c8" />
+      <recent name="C:\xampp\htdocs\DbFetcher_php\sql" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="localhost" />
+    <configuration name="extract" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="localhost" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="472fa536-7f47-4c19-854d-b820b9001303" name="Default Changelist" comment="" />
+      <created>1588926216019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588926216019</updated>
+      <workItem from="1588926217403" duration="16402000" />
+      <workItem from="1588946761916" duration="1651000" />
+      <workItem from="1588984909016" duration="4918000" />
+      <workItem from="1589014195420" duration="9067000" />
+      <workItem from="1589032353821" duration="4183000" />
+      <workItem from="1589041228190" duration="11585000" />
+      <workItem from="1589083545242" duration="494000" />
+      <workItem from="1589084190291" duration="16363000" />
+      <workItem from="1589145194287" duration="1021000" />
+      <workItem from="1589175309987" duration="3327000" />
+      <workItem from="1589198047008" duration="1744000" />
+      <workItem from="1589260015791" duration="7696000" />
+      <workItem from="1589346547201" duration="811000" />
+      <workItem from="1589444567196" duration="1485000" />
+      <workItem from="1589519637461" duration="8918000" />
+      <workItem from="1589864431907" duration="29017000" />
+      <workItem from="1589951591672" duration="645000" />
+      <workItem from="1590063991949" duration="1962000" />
+      <workItem from="1590126472228" duration="576000" />
+      <workItem from="1590141949594" duration="2020000" />
+      <workItem from="1590411392703" duration="5020000" />
+      <workItem from="1590470278017" duration="10255000" />
+      <workItem from="1590555877761" duration="6790000" />
+      <workItem from="1590642387273" duration="13977000" />
+      <workItem from="1590729744972" duration="24082000" />
+      <workItem from="1591012860294" duration="5860000" />
+      <workItem from="1591074451260" duration="24869000" />
+      <workItem from="1591160794686" duration="26081000" />
+      <workItem from="1591209577596" duration="11188000" />
+      <workItem from="1591247186764" duration="26197000" />
+      <workItem from="1591298420034" duration="7583000" />
+      <workItem from="1591368652516" duration="936000" />
+      <workItem from="1591376916179" duration="656000" />
+      <workItem from="1591418326251" duration="590000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9765000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15733737" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32894737" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="540" y="175" key="#Servers" timestamp="1588926529590">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="175" key="#Servers/0.0.1920.1040@0.0.1920.1040" timestamp="1588926529590" />
+    <state x="552" y="178" key="#Web_Browsers" timestamp="1588926410837">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Web_Browsers/0.0.1920.1040@0.0.1920.1040" timestamp="1588926410837" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590437510623">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590437510623" />
+    <state x="735" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589871966898">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="735" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1589871966898" />
+    <state x="758" y="223" key="ExecutionTargetDialog" timestamp="1591276170168">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="758" y="223" key="ExecutionTargetDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591276170168" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1591270738743">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591270738743" />
+    <state width="1293" height="630" key="GridCell.Tab.0.bottom" timestamp="1591189983844">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="630" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591189983844" />
+    <state width="1293" height="630" key="GridCell.Tab.0.center" timestamp="1591189983844">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="630" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591189983844" />
+    <state width="1293" height="630" key="GridCell.Tab.0.left" timestamp="1591189983844">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="630" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591189983844" />
+    <state width="1293" height="630" key="GridCell.Tab.0.right" timestamp="1591189983844">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="630" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591189983844" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1591252093958">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1920.1040@0.0.1920.1040" timestamp="1591252093958" />
+    <state x="773" y="335" key="NewPhpClassDialog" timestamp="1589867537413">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="773" y="335" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589867537413" />
+    <state x="795" y="444" key="NewPhpFileDialog" timestamp="1591271781920">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="795" y="444" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591271781920" />
+    <state x="818" y="267" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1590437281293">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="818" y="267" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590437281293" />
+    <state x="592" y="217" width="736" height="606" key="find.popup" timestamp="1591074615234">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="592" y="217" width="736" height="606" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591074615234" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1589464752090">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589464752090" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/edit_contragent_1c7.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1680">
+          <caret line="80" column="49" selection-start-line="80" selection-start-column="49" selection-end-line="80" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edit_contragent_1c7.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1596">
+          <caret line="76" column="30" selection-start-line="76" selection-start-column="30" selection-end-line="76" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_contragent_1c8.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13461">
+          <caret line="641" column="39" lean-forward="true" selection-start-line="641" selection-start-column="39" selection-end-line="641" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajaxData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1386">
+          <caret line="66" column="12" lean-forward="true" selection-start-line="66" selection-start-column="12" selection-end-line="66" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/objects/bank.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edit_contragent_1c8.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8757">
+          <caret line="417" column="5" lean-forward="true" selection-start-line="405" selection-start-column="4" selection-end-line="417" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/Db_1C8.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sql/1c8.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2688">
+          <caret line="128" column="23" selection-start-line="128" selection-start-column="23" selection-end-line="128" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modal_bank.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="30" column="51" lean-forward="true" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/Db_1C8.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edit_contragent_1c8.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8757">
+          <caret line="417" column="5" selection-start-line="405" selection-start-column="4" selection-end-line="417" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modal_bank.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sql/1c8.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="128" column="23" selection-start-line="128" selection-start-column="23" selection-end-line="128" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/objects/bank.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajaxData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="66" column="12" selection-start-line="66" selection-start-column="12" selection-end-line="66" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="30" column="51" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_contragent_1c8.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="641" column="39" selection-start-line="641" selection-start-column="39" selection-end-line="641" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edit_contragent_1c7.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="80" column="49" selection-start-line="80" selection-start-column="49" selection-end-line="80" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

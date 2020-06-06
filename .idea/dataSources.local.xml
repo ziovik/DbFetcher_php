@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Db_1C8@localhost" uuid="417963d5-ccfd-457f-a695-78141c4cb254">
+      <database-info product="MySQL" version="5.5.5-10.1.34-MariaDB" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.47 ( Revision: fe1903b1ecb4a96a917f7ed3190d80c049b1de29 )">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <introspection-schemas>*:db_1c8</introspection-schemas>
+    </data-source>
+    <data-source name="Db_1C7@localhost" uuid="4dc0d5fd-1b9a-4aa1-b0fd-52fab9c3b169">
+      <database-info product="MySQL" version="5.5.5-10.1.34-MariaDB" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.47 ( Revision: fe1903b1ecb4a96a917f7ed3190d80c049b1de29 )">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+    </data-source>
+    <data-source name="Microsoft SQL Server - zayavki@192.168.84.23" uuid="f6c4f39c-a918-4e62-9465-eb0eca18fa44">
+      <database-info product="Microsoft SQL Server" version="14.00.1000" jdbc-version="4.2" driver-name="Microsoft JDBC Driver 7.4 for SQL Server" driver-version="7.4.1.0">
+        <extra-name-characters>$#@</extra-name-characters>
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>1C</user-name>
+    </data-source>
+  </component>
+</project>

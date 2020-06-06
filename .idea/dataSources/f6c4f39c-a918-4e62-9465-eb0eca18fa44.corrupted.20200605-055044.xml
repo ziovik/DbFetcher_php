@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="Microsoft SQL Server - zayavki@192.168.84.23">
+  <database-model serializer="dbm" dbms="MSSQL" family-id="MSSQL" format-version="4.17">
+    <root id="1">
+      <ServerVersion>14.0.1000</ServerVersion>
+    </root>
+    <database id="2" parent="1" name="1C-DOC">
+      <ObjectId>5</ObjectId>
+      <Collation>Cyrillic_General_CI_AS</Collation>
+    </database>
+    <database id="3" parent="1" name="Doc_Ac2">
+      <ObjectId>7</ObjectId>
+      <Collation>Cyrillic_General_CI_AS</Collation>
+    </database>
+    <database id="4" parent="1" name="master">
+      <ObjectId>1</ObjectId>
+      <Collation>Cyrillic_General_CI_AS</Collation>
+    </database>
+    <database id="5" parent="1" name="model">
+      <ObjectId>3</ObjectId>
+      <Collation>Cyrillic_General_CI_AS</Collation>
+    </database>
+    <database id="6" parent="1" name="msdb">
+      <ObjectId>4</ObjectId>
+      <Collation>Cyrillic_General_CI_AS</Collation>
+    </database>
+    <database id="7" parent="1" name="regzayav">
+      <ObjectId>6</ObjectId>
+      <Collation>Cyrillic_General_CI_AS</Collation>
+    </database>
+    <database id="8" parent="1" name="tempdb">
+      <ObjectId>2</ObjectId>
+      <Collation>Cyrillic_General_CI_AS</Collation>
+    </database>
+    <database id="9" parent="1" name="zayavki">
+      <ObjectId>8</ObjectId>
+      <Current>1</Current>
+      <Collation>Cyrillic_General_CI_AS</Collation>
+      <Fingerprint>8.43970/08A30EA9-5F1D-438F-920E-D403BAD251DF@1C-DOC</Fingerprint>
+    </database>
+  </database-model>
+</dataSource>
